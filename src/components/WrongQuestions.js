@@ -33,7 +33,7 @@ export default function WrongQuestions() {
                 answerOption.isCorrect ? 
                   <resultsButton style={{backgroundColor: 'green'}}>{answerOption.answerText}</resultsButton>
                 :
-                  <resultsButton style={{color: 'black', backgroundColor: 'red'}}>{answerOption.answerText}</resultsButton>            
+                  <resultsButton>{answerOption.answerText}</resultsButton>            
               ))}
             &nbsp; &nbsp;
             </div>
