@@ -53,7 +53,9 @@ To get started with the Quiz Web App, follow these steps:
    Access the web app in your browser and explore the quizzes and authentication features.
 
    Login Information:
+
    Username: admin@gmail.com
+
    Password: password
 
 
